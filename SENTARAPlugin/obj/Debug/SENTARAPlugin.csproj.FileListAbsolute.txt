@@ -1,0 +1,35 @@
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\SENTARAPlugin.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\SENTARAPlugin.pdb
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\ABCpdf.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\HtmlAgilityPack.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\PdfMetamorphosis.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\PlugIn_NET4_5.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\bin\Debug\RestSharp.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csproj.CoreCompileInputs.cache
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csproj.CopyComplete
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.dll
+C:\Users\NishanthUppuleti\Source\Repos\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.pdb
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\SENTARAPlugin.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\SENTARAPlugin.pdb
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\ABCpdf.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\HtmlAgilityPack.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\PdfMetamorphosis.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\PlugIn_NET4_5.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\bin\Debug\RestSharp.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csprojAssemblyReference.cache
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csproj.CoreCompileInputs.cache
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csproj.CopyComplete
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.dll
+C:\Users\NishanthUppuleti\Desktop\completed\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.pdb
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\bin\Debug\SENTARAPlugin.dll
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\bin\Debug\SENTARAPlugin.pdb
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\bin\Debug\ABCpdf.dll
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\bin\Debug\Newtonsoft.Json.dll
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\bin\Debug\ABCpdf.xml
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csproj.CoreCompileInputs.cache
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csproj.CopyComplete
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.dll
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.pdb
+E:\sachin_Work\Test Work\SENTARAPlugin\SENTARAPlugin\SENTARAPlugin\obj\Debug\SENTARAPlugin.csprojAssemblyReference.cache
